@@ -4,6 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".starkActivity">
+    tools:context=".StarkActivity">
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/starkView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
