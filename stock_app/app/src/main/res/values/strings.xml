@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ex6_stock_app</string>
+    <string name="not_found">Symbol not found</string>
+</resources>

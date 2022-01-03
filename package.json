@@ -1,0 +1,11 @@
+{
+  "name": "Milab_Mobile",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.2",
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
